@@ -55,4 +55,4 @@
 - Get Users Details: [GET]           http://localhost:8000/users
 - Create User:       [GET|POST]      http://localhost:8000/users/create
 - Edit User:         [GET|PUT|PATCH] http://localhost:8000/users/{user_id}/edit
-- Delete User:       [DELETE]        http://localhost:8000/users/4
+- Delete User:       [DELETE]        http://localhost:8000/users/{user_id}
